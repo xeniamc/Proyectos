@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RELACION_DE_COLUMNAS>
+       
+    <PREGUNTA ID="1" NOMBRE="Pregunta 1" TIPO="1" WIDTH="2" HEIGHT="2" 
+        SIZEH1="4" SIZEH2_ANSWER="25" SIZEW1="3x" SIZEW2_ANSWER="1"
+        SQUARE1 = "?" SQUARE2 = "x^2" SQUARE3 = "?" SQUARE4 = "45" IMAGE="algebra.jpg">        
+        <RESPUESTA EXPRETION="x^2+7x-5">(3x+1)(4+25)</RESPUESTA>        
+    </PREGUNTA>
+    <PREGUNTA ID="2" NOMBRE="Pregunta 2" TIPO="1" WIDTH="2" HEIGHT="2" 
+        SIZEH1="4" SIZEH2_ANSWER="25" SIZEW1="3x" SIZEW2_ANSWER="1"
+        SQUARE1 = "?" SQUARE2 = "x^2" SQUARE3 = "?" SQUARE4 = "45">        
+        <RESPUESTA EXPRETION="x^2+7x-5">(3x+1)(4+25)</RESPUESTA>        
+    </PREGUNTA>       
+    <PREGUNTA ID="3" NOMBRE="Pregunta 3" TIPO="1" WIDTH="2" HEIGHT="2" 
+        SIZEH1="4" SIZEH2_ANSWER="25" SIZEW1="3x" SIZEW2_ANSWER="1"
+        SQUARE1 = "?" SQUARE2 = "x^2" SQUARE3 = "?" SQUARE4 = "45">        
+        <RESPUESTA EXPRETION="x^2+7x-5">(3x+1)(4+25)</RESPUESTA>        
+    </PREGUNTA>             
+        
+    <PREGUNTA ID="4" NOMBRE="Pregunta 4" TIPO="1" WIDTH="2" HEIGHT="2" 
+        SIZEH1="4" SIZEH2_ANSWER="25" SIZEW1="3x" SIZEW2_ANSWER="1"
+        SQUARE1 = "?" SQUARE2 = "x^2" SQUARE3 = "?" SQUARE4 = "45">        
+        <RESPUESTA EXPRETION="x^2+7x-5">(3x+1)(4+25)</RESPUESTA>        
+    </PREGUNTA>     
+    
+</RELACION_DE_COLUMNAS>
